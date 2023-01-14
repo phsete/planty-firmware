@@ -2,7 +2,7 @@
 /*********************************************************************************
  *  MIT License
  *  
- *  Copyright (c) 2022 Philipp Tebbe
+ *  Copyright (c) 2023 Philipp Tebbe
  *  
  *  https://github.com/phsete/planty-firmware
  *  
